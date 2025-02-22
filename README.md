@@ -1,5 +1,5 @@
 # Geometry Dash in Java
-Currently supports level editing for one level. You can edit the source code and build multiple levels
+Currently supports level editing for one level. You can edit the source code an d build multiple levels
 fairly easily. I just haven't built in a GUI support system for that yet.
 
 ## Controls
